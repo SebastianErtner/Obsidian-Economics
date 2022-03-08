@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "0455bdd76fd43bc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9769614d84e04bc9",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f1e56c0027e996a",
+    "type": "split",
+    "children": [
+      {
+        "id": "553dd2ec4d01f044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60ed4f04e55692e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df3d6a3de6f0cb1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92dc00cb500b8927",
+    "type": "split",
+    "children": [
+      {
+        "id": "e59e880522bb1b53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36fc03f7c907efc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9769614d84e04bc9",
+  "lastOpenFiles": [
+    "Indirect utility function.md",
+    "Lifetime discounted utility.md",
+    "Euler equation.md",
+    "Expenditure function.md",
+    "Elasticty of substitution.md",
+    "CES utility function.md",
+    "Dickey-Fuller test.md",
+    "Market failure.md",
+    "Demand function.md",
+    "Expense minimization problem.md"
+  ]
+}

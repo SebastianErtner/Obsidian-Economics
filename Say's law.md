@@ -1,0 +1,1 @@
+"Supply creates its own demand"

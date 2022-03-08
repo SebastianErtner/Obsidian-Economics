@@ -1,0 +1,1 @@
+Dickey-Fuller test for stationarity of a stochastic process

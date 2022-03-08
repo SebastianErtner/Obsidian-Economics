@@ -1,0 +1,1 @@
+GDP of Austria: EUR 400 Bil.
