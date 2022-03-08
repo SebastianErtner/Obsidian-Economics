@@ -1,0 +1,1 @@
+A decision problem consists of a set of alternatives $A$, a set of states $\Omega$ and a distribution $\Delta \Omega$ over this set of states. A decision maker can employ different [[Decision making concepts|decision making concepts]] in order to arrive at a decision.

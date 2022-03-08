@@ -1,6 +1,6 @@
 # First welfare theorem
 
-Every [[Competitive equilibrium|competitive equilibirum]]is [[Pareto efficiency]].
+Every [[Competitive equilibrium|competitive equilibirum]] is [[Pareto efficiency|pareto efficient]].
 
 # Second welfare theorem
 

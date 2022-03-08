@@ -1,0 +1,3 @@
+A decision making concept that is an alternative to [[Subjective expected utility maximization|subjective expected utility maximization]] and instead of subjective distribution over all states of the world chooses the alternative that minimizes the maximum possible [[Regret|regret]].
+$$a^* = \min_a\max_\omega r(a,\omega)$$
+TODO: is ther a relationship between min max regret and extreme [[Risk aversion|risk aversion]]? possible min max regret being the limit of extreme risk aversion?

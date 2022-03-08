@@ -1,4 +1,4 @@
-# Trade-off societal and individual learning
+# Trade-off between societal and individual learning
 
 For my master thesis I want to examine the trade-off between societal learning
 and learning from own experiences that arises from heterogeneity in individu-

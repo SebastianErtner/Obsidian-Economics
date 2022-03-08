@@ -1,0 +1,2 @@
+Max min utility is a [[Decision making concepts|decision making concept]] that chooses the alternative in a decision problem that gives the highest minimum utility ("guaranteed outcome").
+$$a^* = \max_a \min_\omega u(a,\omega)$$

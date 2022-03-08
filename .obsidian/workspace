@@ -7,8 +7,24 @@
         "id": "9769614d84e04bc9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CES utility function.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "607ed519a015a137",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pareto efficiency.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CES utility function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +101,15 @@
   },
   "active": "9769614d84e04bc9",
   "lastOpenFiles": [
-    "Indirect utility function.md",
-    "Lifetime discounted utility.md",
-    "Euler equation.md",
-    "Expenditure function.md",
-    "Elasticty of substitution.md",
     "CES utility function.md",
-    "Dickey-Fuller test.md",
-    "Market failure.md",
-    "Demand function.md",
-    "Expense minimization problem.md"
+    "Autoregressive process.md",
+    "Utility maximization problem.md",
+    "Stylized growth facts.md",
+    "Say's law.md",
+    "Risk and uncertainty.md",
+    "Moving average process.md",
+    "Min max regret.md",
+    "Pareto efficiency.md",
+    "Lifetime discounted utility.md"
   ]
 }
