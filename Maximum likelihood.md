@@ -1,0 +1,1 @@
+Maximum likelihood estimation treats the distribution function of a statistical variable (given distribution parameters) as the likelihoodfunction of the parameters given the observations of the variable. Then the value of the parameter that maximize this likelihood (or the log-likelihood) is called the ML estimator.

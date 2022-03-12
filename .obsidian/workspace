@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "607ed519a015a137",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Pareto efficiency.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "full ideal ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +75,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,14 +90,14 @@
   "active": "9769614d84e04bc9",
   "lastOpenFiles": [
     "CES utility function.md",
-    "Autoregressive process.md",
+    "Permutations and Combinations.md",
+    "Testing.md",
+    "Least Squares Estimation.md",
+    "Gauss-Markov Theorem.md",
+    "Decision making concepts.md",
+    "Subjective expected utility maximization.md",
     "Utility maximization problem.md",
-    "Stylized growth facts.md",
-    "Say's law.md",
-    "Risk and uncertainty.md",
-    "Moving average process.md",
-    "Min max regret.md",
-    "Pareto efficiency.md",
-    "Lifetime discounted utility.md"
+    "Estimation of statistical variables.md",
+    "Statistical Estimation.md"
   ]
 }
