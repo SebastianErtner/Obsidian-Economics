@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CES utility function.md",
+            "file": "IS-LM.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CES utility function.md",
+                "file": "IS-LM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "9769614d84e04bc9",
   "lastOpenFiles": [
+    "IS-LM.md",
     "CES utility function.md",
     "Permutations and Combinations.md",
     "Testing.md",
@@ -97,7 +98,6 @@
     "Decision making concepts.md",
     "Subjective expected utility maximization.md",
     "Utility maximization problem.md",
-    "Estimation of statistical variables.md",
-    "Statistical Estimation.md"
+    "Estimation of statistical variables.md"
   ]
 }
