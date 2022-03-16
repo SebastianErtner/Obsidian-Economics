@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IS-LM.md",
+            "file": "Permutations and Combinations.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IS-LM.md",
+                "file": "Permutations and Combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "9769614d84e04bc9",
   "lastOpenFiles": [
+    "Permutations and Combinations.md",
+    "Pareto efficiency.md",
     "IS-LM.md",
     "CES utility function.md",
-    "Permutations and Combinations.md",
     "Testing.md",
     "Least Squares Estimation.md",
     "Gauss-Markov Theorem.md",
     "Decision making concepts.md",
     "Subjective expected utility maximization.md",
-    "Utility maximization problem.md",
-    "Estimation of statistical variables.md"
+    "Utility maximization problem.md"
   ]
 }

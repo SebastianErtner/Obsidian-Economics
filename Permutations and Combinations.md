@@ -1,13 +1,13 @@
 # Permutations
 A permutation is a selection where the order of elements is important.
-## Permutation with repetition
+## Permutation with repetition/replacement
 Number of: $n^k$
-## Permutations without repetition
+## Permutations without repetition/replacement
 Number of: ${}_{n}P_k = n!/(n-k)!$
 
 # Combinations
 A combination is a selection where the order of elements is not important.
-## Combinations without repetition
+## Combinations without repetition/replacement
 Number of: ${}_{n}C_k = {n\choose k} = {}_{n}P_k/k! = n!/[(n-k)!k!]$
-## Combinations with repetition
+## Combinations with repetition/replacement
 Number of: ${n+k-1\choose k}$
