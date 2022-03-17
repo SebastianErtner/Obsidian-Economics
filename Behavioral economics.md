@@ -1,0 +1,2 @@
+[[Loss aversion]]
+[[Prospect theory]]

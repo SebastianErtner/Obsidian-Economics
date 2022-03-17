@@ -11,7 +11,7 @@ Estimator $\hat\theta$ is called asymptotically unbiased if $\lim_{n\rightarrow\
 ### Relative efficiency
 Two unbiased estimators of parameter $\theta$ with [[Variance-covariance matrix|variance-covariance matrices]]. Estimator $\hat\theta$ is called relatively more efficient if:
 $$V(\tilde\theta)-V(\hat\theta)$$
-is [[Definite matrix|nonnegative definite]] (=positive semi-definite).
+is [[Linear algebra basics#Definiteness|nonnegative definite]] (=positive semi-definite).
 
 ### Consistency
 Estimator $\hat\theta_{(n)}$ is called consistent, if for any real number $\varepsilon > 0$:

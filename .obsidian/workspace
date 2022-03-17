@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9769614d84e04bc9",
+        "id": "a4c8f4083337d88d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Permutations and Combinations.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permutations and Combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9769614d84e04bc9",
+  "active": "a4c8f4083337d88d",
   "lastOpenFiles": [
-    "Permutations and Combinations.md",
-    "Pareto efficiency.md",
-    "IS-LM.md",
+    "Competitive equilibrium.md",
     "CES utility function.md",
-    "Testing.md",
-    "Least Squares Estimation.md",
-    "Gauss-Markov Theorem.md",
-    "Decision making concepts.md",
-    "Subjective expected utility maximization.md",
-    "Utility maximization problem.md"
+    "Revealed preferences.md",
+    "Consumer choice.md",
+    "Dickey-Fuller test.md",
+    "Formal logic.md",
+    "Loss aversion.md",
+    "Risk aversion.md",
+    "Statistical Estimation.md",
+    "Financial assets.md"
   ]
 }

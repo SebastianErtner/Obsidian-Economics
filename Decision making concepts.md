@@ -2,3 +2,5 @@ Facing a [[Decision problem|decision problem]] there are different concepts to m
 - [[Subjective expected utility maximization]]
 - [[Min max regret]]
 - [[Max min utility]]
+
+Additional concepts are studied in [[Behavioral economics|behavioral economics]].
