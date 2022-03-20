@@ -9,6 +9,8 @@
 
 A preference relation is called **rational** if it is **complete** and **transitive**.
 
+A preference relation is called an **ordering** if it is **complete**, **reflexive** and **transitive**.
+
 A preference relation $\succeq$ on $X$ is **monotone** if $x \in X$ and $y \gg x$ implies $y \succ x$.
 It is **strongly monotone** if $y \geq x$ and $x \neq y$ imply that $y \succ x$.
 

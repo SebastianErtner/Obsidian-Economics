@@ -7,12 +7,8 @@
         "id": "a4c8f4083337d88d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Solow growth model.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solow growth model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "a4c8f4083337d88d",
   "lastOpenFiles": [
-    "Solow growth model.md",
-    "Flow and state variables.md",
-    "Macroeconomic analysis.md",
-    "Walras's law.md",
-    "Production possibility frontier.md",
-    "Marginal rate of substitution.md",
-    "Prospect theory.md",
-    "Growth.md",
-    "IS-LM-PC model.md",
-    "Gross Domestic Product.md"
+    "Bayesian game.md",
+    "Perfect and complete information.md",
+    "Subgame perfect equilibrium.md",
+    "Subgame perfect.md",
+    "Strategic game.md",
+    "Subjective expected utility maximization.md",
+    "Zero-sum game.md",
+    "Nash equilibrium.md",
+    "Math for microeconomics.md",
+    "vNM expected utility theory.md"
   ]
 }
