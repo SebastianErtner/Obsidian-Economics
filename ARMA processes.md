@@ -8,3 +8,4 @@ Special cases:
 
 Properties:
 + [[Weak stationarity]]
++ [[Stable process|Stability]]

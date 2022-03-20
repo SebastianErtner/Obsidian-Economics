@@ -1,2 +1,2 @@
 - [[Econometric model selection]]
-- [[Testing]]
+- [[Hypothesis tests]]

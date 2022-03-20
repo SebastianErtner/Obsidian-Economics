@@ -7,8 +7,12 @@
         "id": "a4c8f4083337d88d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Solow growth model.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "full ideal ",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solow growth model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "a4c8f4083337d88d",
   "lastOpenFiles": [
-    "Competitive equilibrium.md",
-    "CES utility function.md",
-    "Revealed preferences.md",
-    "Consumer choice.md",
-    "Dickey-Fuller test.md",
-    "Formal logic.md",
-    "Loss aversion.md",
-    "Risk aversion.md",
-    "Statistical Estimation.md",
-    "Financial assets.md"
+    "Solow growth model.md",
+    "Flow and state variables.md",
+    "Macroeconomic analysis.md",
+    "Walras's law.md",
+    "Production possibility frontier.md",
+    "Marginal rate of substitution.md",
+    "Prospect theory.md",
+    "Growth.md",
+    "IS-LM-PC model.md",
+    "Gross Domestic Product.md"
   ]
 }
