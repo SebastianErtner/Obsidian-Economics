@@ -1,0 +1,1 @@
+Mathematical optimization method that breaks down a complicated problem into simpler sub-problems in a recursive manner.

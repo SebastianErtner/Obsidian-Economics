@@ -1,7 +1,7 @@
 # Estimation methods
 - [[Least Squares Estimation]]
 - [[Maximum likelihood]]
-- [[Instrumental variables]]
+- [[Instrumental variable estimation]]
 - [[Method of moments]]
 
 # Properties of estimators

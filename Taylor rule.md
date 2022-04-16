@@ -1,0 +1,1 @@
+Simple rule for central bank to set interest rate as function of inflation expectation, depreciation etc.

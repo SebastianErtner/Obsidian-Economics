@@ -6,7 +6,7 @@ $$B_i(a_{-i}) = \{a_i \in A_i | (a_i,a_{-i}) \succeq_i (a_i',a_{-i}) ~\forall a_
 Then a Nash equilibrium is an action profile $a^*$ such that $a_i^* \in B_i(a_{-i}^*)$ for all $i \in N$.
 
 ### Existence of NE
-Using a [[Math for microeconomics#Kakutani's fixed point theorem|fixed point theorem]]  it can be shown that under those conditions (convexity and compactness of $A$) a Nash equilibrium exists as a fixed point $a^* \ in B(a^*)$ in the general best response function that is the cartesian product of the individual best response functions.
+Using a [[Math for microeconomics#Kakutani's fixed point theorem|fixed point theorem]]  it can be shown that under those conditions (convexity and compactness of $A$) a Nash equilibrium exists as a fixed point $a^* \in B(a^*)$ in the general best response function that is the Cartesian product of the individual best response functions.
 
 There are different proofs for existence with different conditions, e.g. a finite action set.
 

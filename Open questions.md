@@ -1,0 +1,2 @@
++ do subjective priors need to be equal to the objective distribution in a [[Bayesian game#Open question|Bayesian EQ]]?
++ in risk aversion elicitation (behavioral experiments) - how is the certainty equivalent treated? as the utility function should be a function of total (expected) wealth and not only of the lottery - but how to control for this?

@@ -1,4 +1,5 @@
-Expected utility theory says that under certain axiom an agent who chooses their preferred lottery among a set of lotteries acts as if they were choosing the lottery with the maximum value of expected utility.
+Expected utility theory says that under certain axiom an agent who chooses their preferred lottery among a set of lotteries acts as if they were choosing the lottery with the maximum value of expected utility:
+$$L \succeq M \Leftrightarrow \sum_{\omega \in \Omega}L(\omega)u(\omega) \geq \sum_{\omega \in \Omega}M(\omega)u(\omega)$$
 
 Axioms that the preference relation over lotteries $\succ$ must fulfill:
 - completeness: $L \succ M \lor M \succ L$

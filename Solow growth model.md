@@ -1,4 +1,4 @@
-The Solow growth model is a simple model that captures the growth of output over time.
+The Solow growth model is a simple model that captures the growth of output over time. It has no microfoundation.
 
 Central assumptions:
 + closed economy $I = S+(T-G)$

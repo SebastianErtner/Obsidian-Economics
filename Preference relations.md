@@ -1,4 +1,6 @@
-
+---
+aliases: preferences, preference
+---
 
 ## Possible properties of preference relations
 

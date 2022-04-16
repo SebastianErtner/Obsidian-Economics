@@ -1,7 +1,8 @@
+Euler equation: equalizes the marginal gain of the choice variables.
 
 
 
-Growth model:
+[[Growth models|Growth model]]:
 
 [[Lifetime discounted utility]]:
 $$U(\{c_t\}) = \sum_{t = 0}^\infty \beta^t u(c_t)$$

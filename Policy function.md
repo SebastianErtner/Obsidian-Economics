@@ -1,0 +1,1 @@
+A function that maps the state variable into the control variables for dynamic problems. Tells us how controls evolve given state.

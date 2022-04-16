@@ -1,3 +1,3 @@
-A process is stable if all eigenvalues of the cdfs $F()$ are within the unit circle.
+A process is stable if all eigenvalues of the cdfs $F()$ lie within the unit circle.
 
-Stability implies stationarity
+Stability implies [[Weak stationarity|stationarity]].

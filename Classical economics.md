@@ -1,0 +1,1 @@
+Smith, Hume, Ricardo, Marx, Malthus, Mill, Bentham

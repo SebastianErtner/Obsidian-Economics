@@ -1,5 +1,11 @@
 
 
+## Type I error
+False positive, $\alpha$ value.
+
+## Type II error
+False negative, $\beta$ value.
+
 
 ## The F-test
 The F-test tests a general restriction on the estimator:

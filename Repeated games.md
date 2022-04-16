@@ -1,0 +1,1 @@
+A repeated game consists of a finite or infinite number of repetitions of a finite [[strategic game]], in this context called the "stage game". [[Folk theorem|Folk theorems]] give conditions under which such a repeated game has an equilibrium.

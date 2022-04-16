@@ -1,0 +1,1 @@
+The Folk theorems state conditions under which [[Nash equilibrium|Nash equilibria]] of [[Repeated games|repeated games]] exist.
